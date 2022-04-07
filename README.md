@@ -2,5 +2,5 @@
 
 ### Este é um contador utilizando conceitos de Eventos em HTML e JavaScript.
 
-### @Digital Inovation One
+### @Digital Innovation One
 
